@@ -1,2 +1,2 @@
-# cani
-CanI
+# CanI Go
+CanI Go
